@@ -2,7 +2,7 @@
 
 This project involves building a RESTful API for an e-commerce application. The API provides core functionalities essential for managing users, shopping carts, products, orders, and payments. It also implements key security practices.
 
-This project is made by Tien Quoc (Kelvin) Bui.
+This project is made by Tien Quoc (Kelvin) Bui for Server Side JavaScript class hehe.
 
 ---
 
