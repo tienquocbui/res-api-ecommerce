@@ -44,4 +44,6 @@ This project is made by Tien Quoc (Kelvin) Bui for Server Side JavaScript class 
 ---
 
 ## My UML Diagram
+Note: Maybe you cannot see the relation when your computer is in dark mode.
+
 ![Kelvin's UML Diagram](asset/uml-diagram.png)
